@@ -27,7 +27,9 @@ h2 {
   background-position: top left;
   
   padding: 25px;
+  padding-left: 80px;
   margin: 30px;
+  margin-right: 250px;
   
   line-height: 1.9em;
   font-family: Georgia, "Times New Roman", Times, serif;
