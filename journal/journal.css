@@ -5,6 +5,8 @@ body {
 
 h1, h2 {
   font-weight: normal;
+  color: #cc6600;
+  text-decoration: underline;
 }
 
 h1 {
