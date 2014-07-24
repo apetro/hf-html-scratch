@@ -20,11 +20,18 @@ h2 {
   border-color: black;
   border-width: 1px;
   border-style: solid;
+  
   background-color: #a7cece;
+  background-image: url(images/background.gif);
+  background-repeat: no-repeat;
+  background-position: top left;
+  
   padding: 25px;
   margin: 30px;
+  
   line-height: 1.9em;
   font-family: Georgia, "Times New Roman", Times, serif;
   font-style: italic;
   color: #444444;
+  
 }
