@@ -17,9 +17,9 @@ h2 {
 }
 
 .guarantee {
-  border-color: black;
-  border-width: 1px;
-  border-style: solid;
+  border-color: white;
+  border-width: thin;
+  border-style: dashed;
   
   background-color: #a7cece;
   background-image: url(images/background.gif);
