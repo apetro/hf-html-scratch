@@ -70,11 +70,11 @@ h2 {
   color: #d12c47;
 }
 
-#elixirs a:link {
+a:link {
   color: #007e7e;
 }
 
-#elixirs a:visited {
+a:visited {
   color: #333333;
 }
 
