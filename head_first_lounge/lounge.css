@@ -16,6 +16,14 @@ h2 {
   font-size: 130%;
 }
 
+.artist {
+  font-weight: bold;
+}
+
+.cd {
+  font-style: italic;
+}
+
 #guarantee {
   
   border: white thin dashed;
