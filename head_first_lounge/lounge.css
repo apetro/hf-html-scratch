@@ -17,14 +17,10 @@ h2 {
 }
 
 #guarantee {
-  border-color: white;
-  border-width: thin;
-  border-style: dashed;
   
-  background-color: #a7cece;
-  background-image: url(images/background.gif);
-  background-repeat: no-repeat;
-  background-position: top left;
+  border: white thin dashed;
+  
+  background: #a7cece url(images/background.gif) no-repeat top left;
   
   padding: 25px;
   padding-left: 80px;
